@@ -8,6 +8,7 @@ module.exports = {
     extend: {
       colors: {
         "primary-color": "#00ADB5",
+        "secondary-color": "#0053B5",
         "disabled-color": "#A1D6D9",
       },
       spacing: {
